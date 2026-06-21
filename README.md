@@ -7,12 +7,15 @@
 </p>
 ---
  
+<p align="center"><i>"The scientist discovers a new type of material or energy and the engineer discovers a new use for it."</i><br/>— Gordon Lindsay Glegg</p>
+---
+ 
 ## About me
  
 <p align="center">
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200"/>
 </p>
-I'm an undergraduate <strong>EEE student</strong> at <strong>Mymensingh Engineering College</strong>, affiliated with the University of Dhaka.
+I'm an undergraduate **EEE student** at **Mymensingh Engineering College**, affiliated with the University of Dhaka.
  
 I build hardware that interacts with the physical world — from schematic design to PCB layout to the firmware that runs on it. Most of my projects start on a **Veroboard**, where I design, solder, and debug everything end-to-end.
  
@@ -26,15 +29,18 @@ I build hardware that interacts with the physical world — from schematic desig
 ## Tech stack
  
 <p align="center">
+<a href="https://www.kicad.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/3374914?s=48&v=4" width="48" height="48" alt="KiCad" title="KiCad"/></a>&nbsp;&nbsp;
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="48" height="48" alt="C" title="C"/></a>&nbsp;&nbsp;
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" height="48" alt="C++" title="C++"/></a>&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" title="Python"/></a>&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="48" height="48" alt="Git" title="Git"/></a>&nbsp;&nbsp;
 <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="48" height="48" alt="Linux" title="Linux"/></a>&nbsp;&nbsp;
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48" height="48" alt="Arduino" title="Arduino"/></a>&nbsp;&nbsp;
-<a href="https://www.kicad.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/3374914?s=48&v=4" width="48" height="48" alt="KiCad" title="KiCad"/></a>
+<a href="https://www.espressif.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" width="48" height="48" alt="Espressif / ESP32" title="Espressif / ESP32"/></a>
 </p>
 <strong>Hardware & EDA</strong> — KiCad (schematic, PCB layout, ERC/DRC), Veroboard prototyping, hand soldering
+ 
+<strong>Microcontrollers</strong> — ESP32 (primary MCU used in robotics projects), Arduino
  
 <strong>Interfaces</strong> — I²C, SPI — sensor integration and peripheral communication
  
@@ -51,18 +57,20 @@ I build hardware that interacts with the physical world — from schematic desig
 ### Soccer Bot
 Autonomous soccer-playing robot built for competitive inter-university events. Designed the motor driver circuit, integrated ball-detection sensors, and implemented motion control logic in firmware. Hardware built on Veroboard from schematic to final assembly.
  
-**Tech:** `C` · `Veroboard` · `Sensor Integration` · `Motor Driver`
+**Tech:** `C/C++` · `ESP32` · `Veroboard` · `Sensor Integration` · `Motor Driver`
  
 ### Cozmo Clench Bot
-Object manipulation robot with a gripping and clamping mechanism. Involved servo motor control, mechanical linkage design, and full circuit prototyping on Veroboard.
+Object manipulation robot with a gripping and clamping mechanism. Involved servo motor control, mechanical linkage design, and full circuit prototyping on Veroboard. Controlled via ESP32.
  
-**Tech:** `C` · `Servo Control` · `Veroboard` · `Mechanical Design`
+**Tech:** `C/C++` · `ESP32` · `Servo Control` · `Veroboard` · `Mechanical Design`
  
 > More projects being documented and uploaded — repositories in progress.
  
 ---
  
 ## Achievements & events
+ 
+**Intra-Campus RoboSoccer Champion** — 1st place in the intra-campus RoboSoccer competition at Mymensingh Engineering College
  
 **Inter-university Robotics Competitions** — Multiple events across universities in Bangladesh
  

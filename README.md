@@ -15,7 +15,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200"/>
 </p>
-I'm an undergraduate **EEE student** at **Mymensingh Engineering College**, affiliated with the University of Dhaka.
+I'm an undergraduate <strong>EEE</strong> student at <strong>Mymensingh Engineering College</strong>, affiliated with the University of Dhaka.
  
 I build hardware that interacts with the physical world — from schematic design to PCB layout to the firmware that runs on it. Most of my projects start on a **Veroboard**, where I design, solder, and debug everything end-to-end.
  
@@ -55,14 +55,14 @@ I build hardware that interacts with the physical world — from schematic desig
 ## Featured projects
  
 ### Soccer Bot
-Autonomous soccer-playing robot built for competitive inter-university events. Designed the motor driver circuit, integrated ball-detection sensors, and implemented motion control logic in firmware. Hardware built on Veroboard from schematic to final assembly.
+Manually controlled soccer robot built for competitive inter-university events. The entire control board was designed and assembled on a **Veroboard** through hand soldering — no off-the-shelf PCB used. The bot chassis was fabricated from scratch: we sourced a steel framework, cut and welded it ourselves rather than using any ready-made chassis. Controlled wirelessly via **ESP32**.
  
-**Tech:** `C/C++` · `ESP32` · `Veroboard` · `Sensor Integration` · `Motor Driver`
+**Tech:** `C/C++` · `ESP32` · `Veroboard` · `Hand Soldering` · `Custom Chassis` · `Steel Welding`
  
 ### Cozmo Clench Bot
-Object manipulation robot with a gripping and clamping mechanism. Involved servo motor control, mechanical linkage design, and full circuit prototyping on Veroboard. Controlled via ESP32.
+Object manipulation robot with a gripping and clamping mechanism. Built using two **MG995 servo motors** for the clench mechanism, an **Arduino Nano** with a **Bluetooth module** for wireless manual control, and a **4-channel relay module** for motor driving. Full circuit prototyped and assembled on Veroboard.
  
-**Tech:** `C/C++` · `ESP32` · `Servo Control` · `Veroboard` · `Mechanical Design`
+**Tech:** `C/C++` · `Arduino Nano` · `MG995 Servo` · `Bluetooth` · `4-CH Relay` · `Veroboard`
  
 > More projects being documented and uploaded — repositories in progress.
  

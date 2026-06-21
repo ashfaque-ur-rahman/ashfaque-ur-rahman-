@@ -7,22 +7,22 @@
 </p>
 ---
  
-<img align="right" width="260" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
-## 👨‍💻 About me
+## About me
  
+<img align="right" width="240" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 I'm an undergraduate **EEE student** at **Mymensingh Engineering College**, affiliated with the University of Dhaka.
  
 I build hardware that interacts with the physical world — from schematic design to PCB layout to the firmware that runs on it. Most of my projects start on a **Veroboard**, where I design, solder, and debug everything end-to-end.
  
-- 🔭 Working on embedded systems & robotics projects
-- 🌱 Exploring **VLSI design** fundamentals
-- 🏭 Visited **Ulkasemi** (semiconductor company) on official industrial tour
-- 🤖 Competed in **multiple inter-university robotics events**
-- 📍 Mymensingh, Bangladesh
+- Working on embedded systems & robotics projects
+- Exploring **VLSI design** fundamentals
+- Visited **Ulkasemi** (semiconductor company) on official industrial tour
+- Competed in **multiple inter-university robotics events**
+- Based in Mymensingh, Bangladesh
 <br clear="right"/>
 ---
  
-## 🛠️ Tech stack
+## Tech stack
  
 <p align="center">
 <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
@@ -44,33 +44,33 @@ I build hardware that interacts with the physical world — from schematic desig
  
 ---
  
-## 🚀 Featured projects
+## Featured projects
  
-### ⚽ Soccer Bot
+### Soccer Bot
 Autonomous soccer-playing robot built for competitive inter-university events. Designed the motor driver circuit, integrated ball-detection sensors, and implemented motion control logic in firmware. Hardware built on Veroboard from schematic to final assembly.
  
 **Tech:** `C` · `Veroboard` · `Sensor Integration` · `Motor Driver`
  
-### 🦾 Cozmo Clench Bot
+### Cozmo Clench Bot
 Object manipulation robot with a gripping and clamping mechanism. Involved servo motor control, mechanical linkage design, and full circuit prototyping on Veroboard.
  
 **Tech:** `C` · `Servo Control` · `Veroboard` · `Mechanical Design`
  
-> 📁 More projects being documented and uploaded — repositories in progress.
+> More projects being documented and uploaded — repositories in progress.
  
 ---
  
-## 🏆 Achievements & events
+## Achievements & events
  
-🤖 &nbsp; **Inter-university Robotics Competitions** — Multiple events across universities in Bangladesh
+**Inter-university Robotics Competitions** — Multiple events across universities in Bangladesh
  
-🏭 &nbsp; **Ulkasemi Industrial Tour** — Official college visit to a semiconductor & VLSI company
+**Ulkasemi Industrial Tour** — Official college visit to a semiconductor & VLSI company
  
-🎓 &nbsp; **Mymensingh Engineering College** — B.Sc. in Electrical & Electronics Engineering *(ongoing)*
+**Mymensingh Engineering College** — B.Sc. in Electrical & Electronics Engineering *(ongoing)*
  
 ---
  
-## 📊 GitHub stats
+## GitHub stats
  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ashfaque-ur-rahman&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&hide=contribs&rank_icon=github" height="170"/>
@@ -82,14 +82,14 @@ Object manipulation robot with a gripping and clamping mechanism. Involved servo
 </p>
 ---
  
-## 🤝 Connect with me
+## Connect
  
 <p align="center">
 <a href="mailto:ashfaqueurrahman2023@gmail.com"><img src="https://img.shields.io/badge/Gmail-ashfaqueurrahman2023-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
 <a href="https://github.com/ashfaque-ur-rahman"><img src="https://img.shields.io/badge/GitHub-ashfaque--ur--rahman-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/📍_Mymensingh-Bangladesh-2ea44f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Mymensingh%2C%20Bangladesh-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ashfaque-ur-rahman&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>

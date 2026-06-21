@@ -1,4 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashfaque%20Ur%20Rahman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=55&desc=Electrical%20%26%20Electronics%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Robotics&descSize=16&descAlignY=75&descColor=cce0ff" width="100%"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Ashfaque+Ur+Rahman" alt="Ashfaque Ur Rahman"/>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=AAAAAA&center=true&vCenter=true&width=700&height=40&lines=Electrical+%26+Electronics+Engineer+%7C+Embedded+Systems+%7C+Robotics" alt="subtitle"/>
+</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Embedded_Systems-0a192f?style=for-the-badge&logo=embarcadero&logoColor=58a6ff"/>
 <img src="https://img.shields.io/badge/PCB_Design-0a192f?style=for-the-badge&logo=altiumdesigner&logoColor=58a6ff"/>
@@ -15,7 +20,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200"/>
 </p>
-I'm an undergraduate <strong>EEE</strong> student at <strong>Mymensingh Engineering College</strong>, affiliated with the University of Dhaka.
+I'm an undergraduate **EEE student** at **Mymensingh Engineering College**, affiliated with the University of Dhaka.
  
 I build hardware that interacts with the physical world — from schematic design to PCB layout to the firmware that runs on it. Most of my projects start on a **Veroboard**, where I design, solder, and debug everything end-to-end.
  
@@ -105,5 +110,5 @@ Object manipulation robot with a gripping and clamping mechanism. Built using tw
 <img src="https://komarev.com/ghpvc/?username=ashfaque-ur-rahman&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
 </p>
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg" width="100%"/>
 <p align="center"><sub>EEE · Mymensingh Engineering College · University of Dhaka</sub></p>
